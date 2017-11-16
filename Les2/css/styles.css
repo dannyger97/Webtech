@@ -1,6 +1,7 @@
 body {
     background-color: lightcyan;
     font-family: "Arial";
+    line-height: 20px;
 }
 
 h1 {
@@ -13,4 +14,18 @@ h1 {
     border-radius: 20px;
     border-left: 3px solid black;
     border-right: 3px solid black;
+}
+img{
+    width: 10%;
+    border-radius: 20px;
+}
+ul{
+    font-weight: normal;
+}
+ol{
+    font-weight: normal;
+}
+a{
+    color: black;
+    text-decoration: none;
 }

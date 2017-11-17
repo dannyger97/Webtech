@@ -1,0 +1,14 @@
+body {
+    font-family: "serif";
+}
+
+h2 {
+    color: inherit;
+}
+
+h3 {
+    color: inherit;
+}
+ol{
+    list-style-type: upper-roman;
+}

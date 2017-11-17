@@ -29,3 +29,9 @@ a{
     color: black;
     text-decoration: none;
 }
+div{
+    padding-left: 4cm;
+    padding-right: 4cm;
+    padding-top:2cm;
+    padding-bottom:2cm;
+}
